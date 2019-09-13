@@ -4,6 +4,8 @@ Sentiment Classifcatin  using LSTM network
 Link of Hackathon = https://datahack.analyticsvidhya.com/contest/linguipedia-codefest-natural-language-processing-1/
 
 
+![](Image1.png)
+
 ## About the Problem
 
 
@@ -30,3 +32,7 @@ The metric used for evaluating the performance of classification model would be 
 ## Public and Private Split
 
 Note that the test data is further randomly divided into Public (35%) and Private (65%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
+
+
+##### Public leader board score 0.8885
+##### Leaderboard Rank 110
